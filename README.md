@@ -23,7 +23,7 @@ The things covered in this week's lesson is how to simply develop an NFT Smart c
 
 I really recommend you follow the full step by step tutorial by clicking on this [link](https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
 
-## Week 2: Build a"Buy Me a Coffee" DeFi dapp
+## Week 2: Build a "Buy Me a Coffee" DeFi dapp
 
 This projects get's a bit more hands on, where you have to configure your Visual Studio Code IDE, install Hardhat start developing and deploying contracts from your terminal instead of using Remix or some extra tools. I built a simple smart contract that can collect donations from others.
 
@@ -35,5 +35,20 @@ What I specifically did was:
 -   Build a frontend website for your decentralized application with  **Replit**.
 
 > Note: in my folder you will find the full smart contract and JS code, the front end was pre written in a tool specified in the tutorial so if you want to test out the full functionality with the UI I recommend you follow the tutorial [here](https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp)
+
+## Week 3: Create NFTs with On-Chain Metadata - Hardhat and JavaScript
+
+In this project (my favorite so far), I got to learn how to create an NFT with on chain metadata, since we deploy our smart contracts on the blockchain, they cannot communicate with the outside world. So if we need to update the metadata directly from our smart contract we need to store it on chain. Blockchain gaming is one of the use cases we explore in this project.
+
+I built an NFT that can level up by calling a training function that updates the metadata (the level of the NFT) on chain.
+
+What I specifically did was:
+-   Stored NFTs metadata on-chain
+-   Learned What is **Polygon** and why it's important to lower Gas fees (Okay I knew this one haha, but was interesting to know more in technical details).
+-   Deployed the smart contract on **Polygon Mumbai** (Polygon test net)
+-   Process and store on-chain **SVG images and JSON objects**
+-   Modify the metadata based on interactions with the NFT ([on polygon scan](https://mumbai.polygonscan.com))
+
+The full step by step tutorial by **Alchemy University** [here](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript)
 
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
