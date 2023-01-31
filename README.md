@@ -51,4 +51,20 @@ What I specifically did was:
 
 The full step by step tutorial by **Alchemy University** [here](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript)
 
+## Week 4: Creat an NFT Galery
+
+So this project for now is my least favorite but kind of important I think. It's more focused on the front-end rather than blockchain and solidity (It's a road to web3 course, so it's understandable). We created a Next.js app (Very similar to react, discovered it in this course).
+
+I learned how to use the Alchemy NFT API to build an NFT gallery capable of fetching NFTs based on three things:
+-   Wallet address
+-   Collection address
+-   Wallet address + collection address
+
+Personal feedback:
+-   Great to learn how to fetch NFTs and Collections
+-   Some redundant code that could be refractored easily, you can check the api_key variable that is duplicated and fetching nfts function that is duplicated as well.
+
+The full step by step tutorial by **Alchemy University** [here](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
+
+
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
