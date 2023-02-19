@@ -81,5 +81,15 @@ Personal feedback:
 -   Uses a lot of if/else statements instead of requires and asserts..
 -   Step back in the quality of code I saw in the first 4 weeks
 
+## Week 6: How to Build a Staking Dapp (9/10)
+
+Okay this week's tutorial was one to remember ! it had it all Solidity, Javascript but most importantly it was a great way to understand how staking apps work, how to manage withdrawl times and claiming deadlines. I learned how to use a new tool as well ! Scaffold ETH which was great ! Really happy with this one to be honest. The only reason I didn't give it a 10/10 was the setup part isn't very well expplained, had some errors that I resolved by myself, was a bit frustrating to be honest 
+
+You can find the full step by step tutorial [here](https://docs.alchemy.com/docs/how-to-build-a-staking-dapp) 
+
+Personal feedback:
+-   Extremely Important Topic
+-   Easy to understand
+-   Project Setup needs a bit more explaining
 
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
