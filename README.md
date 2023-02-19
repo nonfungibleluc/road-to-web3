@@ -11,7 +11,7 @@ If you want to follow my journey be sure to follow me on [twitter](twitter.com/n
 
 # The 10 Projects
 
-## Week 1: How to Develop an NFT Smart Contract (ERC721) with Alchemy
+## Week 1: How to Develop an NFT Smart Contract (ERC721) with Alchemy (9/10)
 
 The things covered in this week's lesson is how to simply develop an NFT Smart contract with the help of Alchemy, OpenZeppelin, Remix and Ethereum Goerli More precisely what I learned was:
 
@@ -23,7 +23,7 @@ The things covered in this week's lesson is how to simply develop an NFT Smart c
 
 I really recommend you follow the full step by step tutorial by clicking on this [link](https://docs.alchemy.com/docs/how-to-develop-an-nft-smart-contract-erc721-with-alchemy)
 
-## Week 2: Build a "Buy Me a Coffee" DeFi dapp
+## Week 2: Build a "Buy Me a Coffee" DeFi dapp (8/10)
 
 This projects get's a bit more hands on, where you have to configure your Visual Studio Code IDE, install Hardhat start developing and deploying contracts from your terminal instead of using Remix or some extra tools. I built a simple smart contract that can collect donations from others.
 
@@ -36,7 +36,7 @@ What I specifically did was:
 
 > Note: in my folder you will find the full smart contract and JS code, the front end was pre written in a tool specified in the tutorial so if you want to test out the full functionality with the UI I recommend you follow the tutorial [here](https://docs.alchemy.com/docs/how-to-build-buy-me-a-coffee-defi-dapp)
 
-## Week 3: Create NFTs with On-Chain Metadata - Hardhat and JavaScript
+## Week 3: Create NFTs with On-Chain Metadata - Hardhat and JavaScript (7/10)
 
 In this project (my favorite so far), I got to learn how to create an NFT with on chain metadata, since we deploy our smart contracts on the blockchain, they cannot communicate with the outside world. So if we need to update the metadata directly from our smart contract we need to store it on chain. Blockchain gaming is one of the use cases we explore in this project.
 
@@ -51,7 +51,7 @@ What I specifically did was:
 
 The full step by step tutorial by **Alchemy University** [here](https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript)
 
-## Week 4: Creat an NFT Galery
+## Week 4: Create an NFT Galery (6/10)
 
 So this project for now is my least favorite but kind of important I think. It's more focused on the front-end rather than blockchain and solidity (It's a road to web3 course, so it's understandable). We created a Next.js app (Very similar to react, discovered it in this course).
 
@@ -65,6 +65,21 @@ Personal feedback:
 -   Some redundant code that could be refractored easily, you can check the api_key variable that is duplicated and fetching nfts function that is duplicated as well.
 
 The full step by step tutorial by **Alchemy University** [here](https://docs.alchemy.com/docs/how-to-create-an-nft-gallery)
+
+
+## Week 5: Connect APIs to your Smart Contracts using Chainlink (5/10)
+
+This is one of the most important projects to follow. Unfortunately it is one of the least well managed projects by Aclhemy, the written documentation has no code examples, the video is long, sloppy without super clean code that can be easily refractored and written in a better way. Also everything is outdated and not updated so I would give this course a 5/10.
+
+So what we did was learn to connect our smart contracts to outside of the blockchain data, like price feeds or APIs or Random number generators and we built a dynamic NFT that changes it's images based on a price feed. (you can check the full repo [here](https://github.com/zeuslawyer/chainlink-dynamic-nft-alchemy))
+
+The Documentation is [here](https://docs.alchemy.com/docs/connect-apis-to-your-smart-contracts-using-chainlink)
+I suggest you watch the [video](https://www.youtube.com/watch?v=hNdXSMKLDi4) It is better than the documentation in this case 
+
+Personal feedback:
+-   Very important topic, poor execution
+-   Uses a lot of if/else statements instead of requires and asserts..
+-   Step back in the quality of code I saw in the first 4 weeks
 
 
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
