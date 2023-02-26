@@ -92,4 +92,15 @@ Personal feedback:
 -   Easy to understand
 -   Project Setup needs a bit more explaining
 
+## Week 7: How to Build an NFT Marketplace from Scratch (9/10)
+
+Wow ! This one was long, but honestly I think until now it has been the most enjoyable tutorial to follow to be honest. It had it all, a good solidity development part with new function other than the typical ERC721 implementation we had in the last tutorials and Big setup part and also a big JS / React front part.
+
+Personal feedback:
+-   We covered a lot of ground, Pinata, Solidity, Js and React
+-   I think it is the first complete tutorial on how to create a market place
+-   It was Challenging but very satisfying, well written and understandable.
+
+You can find the full step by step tutorial [here](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch) 
+
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
