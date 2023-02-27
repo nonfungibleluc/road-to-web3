@@ -103,4 +103,21 @@ Personal feedback:
 
 You can find the full step by step tutorial [here](https://docs.alchemy.com/docs/how-to-build-an-nft-marketplace-from-scratch) 
 
+
+## Week 8: How to build a betting game on Optimism (2/10)
+
+This week was a total waste of my time. I'm being harsh and subjective, honestly, if you are looking to actually build a betting game, this could be a cool solution for you or a cool starting point. But the tutorial itself covers 0 Solidity, there is just one person explaining the concept and basically delivering a course lecture (he is really good btw 10/10 on his teaching skills). The problem for me that it was 95% theoretical and 5% test, no implementation.
+
+Personal feedback:
+-   Video no text, understandable since it was all slides and explanations
+-   No coding or implementation what so ever
+-   Lecture and theory only
+-   Very good teacher, learned Optimism which I didn't hear about before
+-   Learned some good lessons on randomness and fraud detection or preventions on gambeling games
+
+I am uplaoding the code anyway in case someone is following the whole tutorial here but know that I didn't change anything and you can probably get more up to date versions of this on the official repo [here](https://github.com/qbzzt/qbzzt.github.io)
+
+You can find the video tutorial [here](https://docs.alchemy.com/docs/how-to-build-a-betting-game-on-optimism) 
+
+
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
