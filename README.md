@@ -120,4 +120,18 @@ I am uplaoding the code anyway in case someone is following the whole tutorial h
 You can find the video tutorial [here](https://docs.alchemy.com/docs/how-to-build-a-betting-game-on-optimism) 
 
 
+## Week 10: How to Create a Decentralized Twitter with Lens Protocol (4/10)
+
+Don't be decieved by the name, in this week's tutorial we won't really be creating a decentralized Twitter or social media, what we are simply doing is querrying an API to retreive posts and profile from lens protocol and displaying them on the website.
+
+It's more of a tutorial on how to use GraphQL (without going into detail) and some front end development, nothing smart contract related at all, I can understand that it's web3 related but doesn't make you learn any more about web3.
+
+Personal feedback:
+-   Good for checking Lens Protocol
+-   Not web3 related at all
+-   Very oriented to front end development
+-   No deep dive into lens protocol
+
+You can find the full step by step tutorial [here](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol#step-3-create-individual-profile-pages) 
+
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
