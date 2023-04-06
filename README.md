@@ -13,6 +13,8 @@ If you want to follow my journey be sure to follow me on [twitter](twitter.com/n
 
 ## Week 1: How to Develop an NFT Smart Contract (ERC721) with Alchemy (9/10)
 
+> Note: for this week no code was uploaded, it was all done on the open Zeppelin Site. If you follow the tutorial you will understand.
+
 The things covered in this week's lesson is how to simply develop an NFT Smart contract with the help of Alchemy, OpenZeppelin, Remix and Ethereum Goerli More precisely what I learned was:
 
 -   How to write and modify the smart contract using OpenZeppelin and Remix
@@ -119,6 +121,19 @@ I am uplaoding the code anyway in case someone is following the whole tutorial h
 
 You can find the video tutorial [here](https://docs.alchemy.com/docs/how-to-build-a-betting-game-on-optimism) 
 
+## Week 9: How to Build a Token Swap Dapp With 0x API (7/10)
+
+This week I was surprised, I thought personally for me this week will be the least interesting (since I am not planning on building a DEX), but honestly this week was great, even though I did not code in solidity, I used JS to manipulate and apply many web3 concetps. I also got to discover 0xAPI and how to fetch prices and quotes. I was a very enjoyable experience. I really recommend doing this tutorial.
+
+Personal feedback:
+-   Very good coding experience
+-   Web3 Manipulation (Metamask, coin prices etc, ...)
+-   Increase in JS Knowledge
+-   Simple html / js / css
+-   Learned how a DEX actually gets it's prices and quotes
+
+You can find the video tutorial [here](https://docs.alchemy.com/docs/how-to-build-a-token-swap-dapp-with-0x-api) 
+
 
 ## Week 10: How to Create a Decentralized Twitter with Lens Protocol (4/10)
 
@@ -135,3 +150,9 @@ Personal feedback:
 You can find the full step by step tutorial [here](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol#step-3-create-individual-profile-pages) 
 
 *Please note that if you find some differences in the code this is normal, each lesson has a challenge at the end and I try to implement every challenge. I will continue updating this read me as I go through each weeks project.*
+
+## CONCLUSION AND GLOBAL FEEDBACK
+
+In General, this course is very important for people getting into web3, even though all the tutorials are not at top level, you can get a general idea on how to apply your Solidity knowledge in real and usefull apps. Personally I am working on a project and one of the tutorials helped alot into starting and giving me guidance. So, even though it's not perfect I think it's important to follow these 10 weeks. I found the experience quite enjoyable and informative! 
+
+Finally, even though the discord is very active in general, I really wished that the specific channel for this course (r2w3-general) was more responsive to questions and feedback.
